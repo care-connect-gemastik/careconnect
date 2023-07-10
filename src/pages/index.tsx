@@ -36,6 +36,9 @@ export default function Home() {
             },
           ]}
         />
+        <Card padding="lg" radius="md" mx="auto">
+          <h1>CareConnect</h1>
+        </Card>
       </main>
     </>
   );
